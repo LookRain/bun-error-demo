@@ -1,0 +1,12 @@
+{
+  "name": "test-bun",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.5.0"
+  },
+  "dependencies": {
+    "@nut-tree/nut-js": "^3.1.1",
+    "robotjs": "^0.6.0"
+  }
+}
